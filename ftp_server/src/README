@@ -1,0 +1,18 @@
+
+                     REDES Y SISTEMAS DISTRIBUIDOS
+
+
+==========================================================================
+Code template for the socket programming assignment: Simple FTP server
+==========================================================================
+
+This folder contains the code template for a simple FTP as proposed 
+in the assignment that is attached.
+
+Before compiling make sure that you have the following packages installed
+on your system:
+- gcc
+- g++
+- make
+
+To compile the code use the make command.
